@@ -1,4 +1,4 @@
-<span style="text-decoration:underline;">Project Overview </span>
+**Project Overview**
 
 This project is an implementation of an integer sorting algorithm that leverages Python generators. 
 
@@ -6,7 +6,7 @@ The idea is to spawn a generator for every input integer, and to have the size o
 
 Sorting is accomplished by looping through the collection of generators and yielding from each one once at each iteration. When a given generator has been exhausted, the integer that was used to populate it is returned. Given that the input integer determined how many times the generator could yield, the resulting stream of integers is sorted in ascending order. 
 
-<span style="text-decoration:underline;">Usage Details</span>
+**Usage Details**
 
  If used on the Unix Command-Line, the sorting functionality can be accessed in two ways:
 
@@ -45,7 +45,7 @@ Sorting is accomplished by looping through the collection of generators and yiel
 
        1 2 3 3 4
 
-<span style="text-decoration:underline;">Inspiration</span>
+**Inspiration**
 
 This project was inspired by the work of Timothy Hopper (github.com/tdhopper) who was himself inspired by the following tweet:
 
