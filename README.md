@@ -47,7 +47,7 @@ Sorting is accomplished by looping through the collection of generators and yiel
 
 **Inspiration**
 
-This project was inspired by the work of Timothy Hopper (github.com/tdhopper) who was himself inspired by the following tweet:
+This project was inspired by [the work](https://github.com/tdhopper/sleepsort) of Tim Hopper (github.com/tdhopper) who was himself inspired by the following tweet:
 
 **_Here's a very strange Sorting Algorithm:_**
 
